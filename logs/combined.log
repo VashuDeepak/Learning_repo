@@ -1,0 +1,394 @@
+2025-02-22 12:24:29 info: Starting new test
+2025-02-22 12:24:29 info: Navigating to: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-02-22 12:24:33 info: Navigated to login page
+2025-02-22 12:24:33 info: Running test: should display login page
+2025-02-22 12:24:33 info: Verifying login page elements
+2025-02-22 12:24:33 info: Login page verified successfully
+2025-02-22 12:24:33 info: Test completed
+2025-02-22 12:24:35 info: Starting new test
+2025-02-22 12:24:35 info: Navigating to: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-02-22 12:24:39 info: Navigated to login page
+2025-02-22 12:24:39 info: Running test: should login with valid credentials
+2025-02-22 12:24:39 info: Attempting to login with username: Admin
+2025-02-22 12:24:40 info: Entered username
+2025-02-22 12:24:40 info: Entered password
+2025-02-22 12:24:41 info: Clicked login button
+2025-02-22 12:24:41 info: Successfully logged in and verified dashboard URL
+2025-02-22 12:24:41 info: Test completed
+2025-02-22 12:27:45 info: Starting global setup
+2025-02-22 12:27:45 info: Global setup completed
+2025-02-22 12:27:49 info: Launching browser
+2025-02-22 12:27:49 info: Creating new browser context
+2025-02-22 12:27:49 info: Creating new page
+2025-02-22 12:27:49 info: Creating LoginPage instance
+2025-02-22 12:27:49 info: Running test: should display login page
+2025-02-22 12:27:49 info: Navigating to: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-02-22 12:27:53 info: Navigated to login page
+2025-02-22 12:27:53 info: Verifying login page elements
+2025-02-22 12:27:54 info: Login page verified successfully
+2025-02-22 12:27:54 info: Closing page
+2025-02-22 12:27:54 info: Closing browser context
+2025-02-22 12:27:55 info: Creating new browser context
+2025-02-22 12:27:56 info: Creating new page
+2025-02-22 12:27:56 info: Creating LoginPage instance
+2025-02-22 12:27:56 info: Running test: should login with valid credentials
+2025-02-22 12:27:56 info: Navigating to: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-02-22 12:28:00 info: Navigated to login page
+2025-02-22 12:28:00 info: Attempting to login with username: Admin
+2025-02-22 12:28:00 info: Entered username
+2025-02-22 12:28:01 info: Entered password
+2025-02-22 12:28:03 info: Clicked login button
+2025-02-22 12:28:03 info: Successfully logged in and verified dashboard URL
+2025-02-22 12:28:03 info: Closing page
+2025-02-22 12:28:03 info: Closing browser context
+2025-02-22 12:28:03 info: Creating new browser context
+2025-02-22 12:28:04 info: Creating new page
+2025-02-22 12:28:04 info: Creating LoginPage instance
+2025-02-22 12:28:04 info: Setting up authenticated page
+2025-02-22 12:28:04 info: Navigating to: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-02-22 12:28:08 info: Navigated to login page
+2025-02-22 12:28:08 info: Attempting to login with username: Admin
+2025-02-22 12:28:09 info: Entered username
+2025-02-22 12:28:09 info: Entered password
+2025-02-22 12:28:11 info: Clicked login button
+2025-02-22 12:28:11 info: Running test: should be able to access protected page
+2025-02-22 12:28:11 info: Successfully verified access to protected page
+2025-02-22 12:28:11 info: Closing page
+2025-02-22 12:28:11 info: Closing browser context
+2025-02-22 12:28:11 info: Closing browser
+2025-02-22 22:03:24 info: Starting global setup
+2025-02-22 22:03:24 info: Global setup completed
+2025-02-22 22:03:26 info: Launching browser
+2025-02-22 22:03:26 info: Creating new browser context
+2025-02-22 22:03:27 info: Creating new page
+2025-02-22 22:03:27 info: Creating LoginPage instance
+2025-02-22 22:03:27 info: Running test: should display login page
+2025-02-22 22:03:27 info: Navigating to: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-02-22 22:03:30 info: Navigated to login page
+2025-02-22 22:03:30 info: Verifying login page elements
+2025-02-22 22:03:31 info: Login page verified successfully
+2025-02-22 22:03:31 info: Closing page
+2025-02-22 22:03:31 info: Closing browser context
+2025-02-22 22:03:32 info: Creating new browser context
+2025-02-22 22:03:33 info: Creating new page
+2025-02-22 22:03:33 info: Creating LoginPage instance
+2025-02-22 22:03:33 info: Running test: should login with valid credentials
+2025-02-22 22:03:33 info: Navigating to: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-02-22 22:03:37 info: Navigated to login page
+2025-02-22 22:03:37 info: Attempting to login with username: Admin
+2025-02-22 22:03:37 info: Entered username
+2025-02-22 22:03:37 info: Entered password
+2025-02-22 22:03:39 info: Clicked login button
+2025-02-22 22:03:39 info: Successfully logged in and verified dashboard URL
+2025-02-22 22:03:39 info: Closing page
+2025-02-22 22:03:39 info: Closing browser context
+2025-02-22 22:03:39 info: Creating new browser context
+2025-02-22 22:03:39 info: Creating new page
+2025-02-22 22:03:39 info: Creating LoginPage instance
+2025-02-22 22:03:39 info: Setting up authenticated page
+2025-02-22 22:03:39 info: Navigating to: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-02-22 22:03:43 info: Navigated to login page
+2025-02-22 22:03:43 info: Attempting to login with username: Admin
+2025-02-22 22:03:44 info: Entered username
+2025-02-22 22:03:44 info: Entered password
+2025-02-22 22:03:45 info: Clicked login button
+2025-02-22 22:03:45 info: Running test: should be able to access protected page
+2025-02-22 22:03:45 info: Successfully verified access to protected page
+2025-02-22 22:03:45 info: Closing page
+2025-02-22 22:03:45 info: Closing browser context
+2025-02-22 22:03:46 info: Closing browser
+2025-02-22 23:11:30 info: Starting global setup
+2025-02-22 23:11:30 info: Global setup completed
+2025-02-22 23:12:29 info: Starting global setup
+2025-02-22 23:12:29 info: Global setup completed
+2025-02-22 23:12:32 info: Launching browser
+2025-02-22 23:12:32 info: Creating new browser context
+2025-02-22 23:12:33 info: Creating new page
+2025-02-22 23:12:33 info: Creating LoginPage instance
+2025-02-22 23:12:33 info: Running test: should display login page
+2025-02-22 23:12:33 info: Navigating to: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-02-22 23:12:37 info: Navigated to login page
+2025-02-22 23:12:37 info: Verifying login page elements
+2025-02-22 23:12:38 info: Login page verified successfully
+2025-02-22 23:12:38 info: Closing page
+2025-02-22 23:12:38 info: Closing browser context
+2025-02-22 23:12:40 info: Creating new browser context
+2025-02-22 23:12:40 info: Creating new page
+2025-02-22 23:12:40 info: Creating LoginPage instance
+2025-02-22 23:12:40 info: Running test: should login with valid credentials
+2025-02-22 23:12:40 info: Navigating to: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-02-22 23:12:44 info: Navigated to login page
+2025-02-22 23:12:44 info: Attempting to login with username: Admin
+2025-02-22 23:12:46 info: Entered username
+2025-02-22 23:12:46 info: Entered password
+2025-02-22 23:12:48 info: Clicked login button
+2025-02-22 23:12:48 info: Successfully logged in and verified dashboard URL
+2025-02-22 23:12:48 info: Closing page
+2025-02-22 23:12:48 info: Closing browser context
+2025-02-22 23:12:48 info: Creating new browser context
+2025-02-22 23:12:49 info: Creating new page
+2025-02-22 23:12:49 info: Creating LoginPage instance
+2025-02-22 23:12:49 info: Setting up authenticated page
+2025-02-22 23:12:49 info: Navigating to: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-02-22 23:12:53 info: Navigated to login page
+2025-02-22 23:12:53 info: Attempting to login with username: Admin
+2025-02-22 23:12:53 info: Entered username
+2025-02-22 23:12:54 info: Entered password
+2025-02-22 23:12:55 info: Clicked login button
+2025-02-22 23:12:55 info: Running test: should be able to access protected page
+2025-02-22 23:12:55 info: Successfully verified access to protected page
+2025-02-22 23:12:55 info: Closing page
+2025-02-22 23:12:55 info: Closing browser context
+2025-02-22 23:12:55 info: Closing browser
+2025-02-22 23:12:59 info: Launching browser
+2025-02-22 23:12:59 info: Creating new browser context
+2025-02-22 23:13:04 info: Creating new page
+2025-02-22 23:13:04 info: Creating LoginPage instance
+2025-02-22 23:13:04 info: Running test: should display login page
+2025-02-22 23:13:04 info: Navigating to: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-02-22 23:13:08 info: Navigated to login page
+2025-02-22 23:13:08 info: Verifying login page elements
+2025-02-22 23:13:10 info: Login page verified successfully
+2025-02-22 23:13:10 info: Closing page
+2025-02-22 23:13:10 info: Closing browser context
+2025-02-22 23:13:11 info: Creating new browser context
+2025-02-22 23:13:12 info: Creating new page
+2025-02-22 23:13:12 info: Creating LoginPage instance
+2025-02-22 23:13:12 info: Running test: should login with valid credentials
+2025-02-22 23:13:12 info: Navigating to: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-02-22 23:13:16 info: Navigated to login page
+2025-02-22 23:13:16 info: Attempting to login with username: Admin
+2025-02-22 23:13:18 info: Entered username
+2025-02-22 23:13:18 info: Entered password
+2025-02-22 23:13:19 info: Clicked login button
+2025-02-22 23:13:19 info: Successfully logged in and verified dashboard URL
+2025-02-22 23:13:19 info: Closing page
+2025-02-22 23:13:19 info: Closing browser context
+2025-02-22 23:13:20 info: Creating new browser context
+2025-02-22 23:13:21 info: Creating new page
+2025-02-22 23:13:21 info: Creating LoginPage instance
+2025-02-22 23:13:21 info: Setting up authenticated page
+2025-02-22 23:13:21 info: Navigating to: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-02-22 23:13:25 info: Navigated to login page
+2025-02-22 23:13:25 info: Attempting to login with username: Admin
+2025-02-22 23:13:26 info: Entered username
+2025-02-22 23:13:27 info: Entered password
+2025-02-22 23:13:29 info: Clicked login button
+2025-02-22 23:13:29 info: Running test: should be able to access protected page
+2025-02-22 23:13:29 info: Successfully verified access to protected page
+2025-02-22 23:13:29 info: Closing page
+2025-02-22 23:13:29 info: Closing browser context
+2025-02-22 23:13:30 info: Closing browser
+2025-02-22 23:13:33 info: Launching browser
+2025-02-22 23:13:33 info: Creating new browser context
+2025-02-22 23:13:34 info: Creating new page
+2025-02-22 23:13:34 info: Creating LoginPage instance
+2025-02-22 23:13:34 info: Running test: should display login page
+2025-02-22 23:13:34 info: Navigating to: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-02-22 23:13:38 info: Navigated to login page
+2025-02-22 23:13:38 info: Verifying login page elements
+2025-02-22 23:13:40 info: Login page verified successfully
+2025-02-22 23:13:40 info: Closing page
+2025-02-22 23:13:40 info: Closing browser context
+2025-02-22 23:13:41 info: Creating new browser context
+2025-02-22 23:13:41 info: Creating new page
+2025-02-22 23:13:41 info: Creating LoginPage instance
+2025-02-22 23:13:41 info: Running test: should login with valid credentials
+2025-02-22 23:13:41 info: Navigating to: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-02-22 23:13:45 info: Navigated to login page
+2025-02-22 23:13:45 info: Attempting to login with username: Admin
+2025-02-22 23:13:47 info: Entered username
+2025-02-22 23:13:47 info: Entered password
+2025-02-22 23:13:49 info: Clicked login button
+2025-02-22 23:13:49 info: Successfully logged in and verified dashboard URL
+2025-02-22 23:13:49 info: Closing page
+2025-02-22 23:13:49 info: Closing browser context
+2025-02-22 23:13:49 info: Creating new browser context
+2025-02-22 23:13:50 info: Creating new page
+2025-02-22 23:13:50 info: Creating LoginPage instance
+2025-02-22 23:13:50 info: Setting up authenticated page
+2025-02-22 23:13:50 info: Navigating to: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-02-22 23:13:53 info: Navigated to login page
+2025-02-22 23:13:53 info: Attempting to login with username: Admin
+2025-02-22 23:13:55 info: Entered username
+2025-02-22 23:13:55 info: Entered password
+2025-02-22 23:13:57 info: Clicked login button
+2025-02-22 23:13:57 info: Running test: should be able to access protected page
+2025-02-22 23:13:57 info: Successfully verified access to protected page
+2025-02-22 23:13:57 info: Closing page
+2025-02-22 23:13:57 info: Closing browser context
+2025-02-22 23:13:57 info: Closing browser
+2025-02-22 23:22:08 info: Starting global setup
+2025-02-22 23:22:08 info: Global setup completed
+2025-02-22 23:22:10 info: Launching browser
+2025-02-22 23:22:10 info: Creating new browser context
+2025-02-22 23:22:11 info: Creating new page
+2025-02-22 23:22:11 info: Creating LoginPage instance
+2025-02-22 23:22:11 info: Running test: should display login page
+2025-02-22 23:22:11 info: Navigating to: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-02-22 23:22:15 info: Navigated to login page
+2025-02-22 23:22:15 info: Verifying login page elements
+2025-02-22 23:22:16 info: Login page verified successfully
+2025-02-22 23:22:16 info: Closing page
+2025-02-22 23:22:16 info: Closing browser context
+2025-02-22 23:22:17 info: Creating new browser context
+2025-02-22 23:22:18 info: Creating new page
+2025-02-22 23:22:18 info: Creating LoginPage instance
+2025-02-22 23:22:18 info: Running test: should login with valid credentials
+2025-02-22 23:22:18 info: Navigating to: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-02-22 23:22:20 info: Closing page
+2025-02-22 23:22:20 info: Closing browser context
+2025-02-22 23:22:20 info: Closing browser
+2025-02-23 00:17:10 info: Starting global setup
+2025-02-23 00:17:10 info: Global setup completed
+2025-02-23 00:17:12 info: Connecting to BrowserStack browser
+2025-02-23 00:17:13 info: Connecting to BrowserStack browser
+2025-02-23 00:17:15 info: Connecting to BrowserStack browser
+2025-02-23 00:17:16 info: Connecting to BrowserStack browser
+2025-02-23 00:17:18 info: Connecting to BrowserStack browser
+2025-02-23 00:17:20 info: Connecting to BrowserStack browser
+2025-02-23 00:17:22 info: Connecting to BrowserStack browser
+2025-02-23 00:17:24 info: Connecting to BrowserStack browser
+2025-02-23 00:17:25 info: Connecting to BrowserStack browser
+2025-02-23 00:17:27 info: Connecting to BrowserStack browser
+2025-02-23 00:17:29 info: Connecting to BrowserStack browser
+2025-02-23 00:17:31 info: Connecting to BrowserStack browser
+2025-02-23 00:21:45 info: Starting global setup
+2025-02-23 00:21:45 info: Global setup completed
+2025-02-23 00:21:47 info: Connecting to BrowserStack browser
+2025-02-23 00:21:49 info: Connecting to BrowserStack browser
+2025-02-23 00:21:50 info: Connecting to BrowserStack browser
+2025-02-23 00:21:52 info: Connecting to BrowserStack browser
+2025-02-23 00:21:54 info: Connecting to BrowserStack browser
+2025-02-23 00:21:58 info: Connecting to BrowserStack browser
+2025-02-23 00:21:59 info: Connecting to BrowserStack browser
+2025-02-23 00:22:01 info: Connecting to BrowserStack browser
+2025-02-23 00:22:03 info: Connecting to BrowserStack browser
+2025-02-23 00:22:04 info: Connecting to BrowserStack browser
+2025-02-23 00:22:06 info: Connecting to BrowserStack browser
+2025-02-23 00:22:09 info: Connecting to BrowserStack browser
+2025-02-23 00:22:11 info: Connecting to BrowserStack browser
+2025-02-23 00:22:12 info: Connecting to BrowserStack browser
+2025-02-23 00:22:14 info: Connecting to BrowserStack browser
+2025-02-23 00:22:16 info: Connecting to BrowserStack browser
+2025-02-23 00:22:17 info: Connecting to BrowserStack browser
+2025-02-23 00:22:19 info: Connecting to BrowserStack browser
+2025-02-23 00:24:00 info: Starting global setup
+2025-02-23 00:24:00 info: Global setup completed
+2025-02-23 00:24:01 info: Connecting to BrowserStack browser
+2025-02-23 00:24:03 info: Connecting to BrowserStack browser
+2025-02-23 00:24:05 info: Connecting to BrowserStack browser
+2025-02-23 00:24:59 info: Starting global setup
+2025-02-23 00:24:59 info: Global setup completed
+2025-02-23 00:25:01 info: Connecting to BrowserStack browser
+2025-02-23 00:25:24 info: Connecting to BrowserStack browser
+2025-02-23 00:25:36 info: Connecting to BrowserStack browser
+2025-02-23 00:25:39 info: Connecting to BrowserStack browser
+2025-02-23 00:25:40 info: Connecting to BrowserStack browser
+2025-02-23 00:25:42 info: Connecting to BrowserStack browser
+2025-02-23 00:25:44 info: Connecting to BrowserStack browser
+2025-02-23 00:25:46 info: Connecting to BrowserStack browser
+2025-02-23 00:25:49 info: Connecting to BrowserStack browser
+2025-02-23 00:39:51 info: Starting global setup
+2025-02-23 00:39:51 info: Global setup completed
+2025-02-23 00:39:53 info: Connecting to BrowserStack browser
+2025-02-23 00:39:54 info: Connecting to BrowserStack browser
+2025-02-23 00:39:56 info: Connecting to BrowserStack browser
+2025-02-23 00:39:57 info: Connecting to BrowserStack browser
+2025-02-23 00:41:48 info: Starting global setup
+2025-02-23 00:41:48 info: Global setup completed
+2025-02-23 00:41:49 info: Connecting to BrowserStack browser
+2025-02-23 00:41:51 info: Connecting to BrowserStack browser
+2025-02-23 00:41:53 info: Connecting to BrowserStack browser
+2025-02-23 00:41:55 info: Connecting to BrowserStack browser
+2025-02-23 00:41:56 info: Connecting to BrowserStack browser
+2025-02-23 00:49:46 info: Starting global setup
+2025-02-23 00:49:46 info: Global setup completed
+2025-02-23 00:49:48 info: Connecting to BrowserStack browser
+2025-02-23 00:49:50 info: Connecting to BrowserStack browser
+2025-02-23 00:49:52 info: Connecting to BrowserStack browser
+2025-02-23 00:49:53 info: Connecting to BrowserStack browser
+2025-02-23 00:49:55 info: Connecting to BrowserStack browser
+2025-02-23 01:03:44 info: Starting global setup
+2025-02-23 01:03:44 info: Global setup completed
+2025-02-23 01:03:46 info: Connecting to BrowserStack browser
+2025-02-23 01:03:48 info: Connecting to BrowserStack browser
+2025-02-23 01:03:50 info: Connecting to BrowserStack browser
+2025-02-23 01:06:27 info: Starting global setup
+2025-02-23 01:06:27 info: Global setup completed
+2025-02-23 01:06:29 info: Connecting to BrowserStack browser
+2025-02-23 01:06:32 info: Connecting to BrowserStack browser
+2025-02-23 01:06:36 info: Connecting to BrowserStack browser
+2025-02-23 01:09:12 info: Starting global setup
+2025-02-23 01:09:12 info: Global setup completed
+2025-02-23 01:09:14 info: Connecting to BrowserStack browser
+2025-02-23 01:09:15 info: Connecting to BrowserStack browser
+2025-02-23 02:06:15 info: Connecting to BrowserStack browser
+2025-02-23 02:06:17 info: Connecting to BrowserStack browser
+2025-02-25 15:38:51 info: Connecting to BrowserStack browser...
+2025-02-25 15:38:53 info: Connecting to BrowserStack browser...
+2025-02-25 15:38:54 info: Connecting to BrowserStack browser...
+2025-02-25 15:48:03 info: Connecting to BrowserStack browser...
+2025-02-25 15:48:05 info: Connecting to BrowserStack browser...
+2025-02-25 15:48:08 info: Connecting to BrowserStack browser...
+2025-02-25 15:49:17 info: Connecting to BrowserStack browser...
+2025-02-25 15:49:18 info: Connecting to BrowserStack browser...
+2025-02-25 15:49:20 info: Connecting to BrowserStack browser...
+2025-02-25 15:52:07 info: Connecting to BrowserStack browser...
+2025-02-25 15:52:09 info: Connecting to BrowserStack browser...
+2025-02-25 15:52:12 info: Connecting to BrowserStack browser...
+2025-02-25 15:54:13 info: Connecting to BrowserStack browser...
+2025-02-25 15:54:15 info: Connecting to BrowserStack browser...
+2025-02-25 15:54:17 info: Connecting to BrowserStack browser...
+2025-02-25 15:59:55 info: Connecting to BrowserStack browser...
+2025-02-25 15:59:57 info: Connecting to BrowserStack browser...
+2025-02-25 15:59:59 info: Connecting to BrowserStack browser...
+2025-02-25 16:13:10 info: Connecting to BrowserStack browser...
+2025-02-25 16:13:12 info: Connecting to BrowserStack browser...
+2025-02-25 16:13:13 info: Connecting to BrowserStack browser...
+2025-02-25 16:13:32 info: Connecting to BrowserStack browser...
+2025-02-25 16:13:34 info: Connecting to BrowserStack browser...
+2025-02-25 16:13:38 info: Connecting to BrowserStack browser...
+2025-02-25 16:16:35 info: Connecting to BrowserStack browser...
+2025-02-25 16:16:43 info: Connecting to BrowserStack browser...
+2025-02-25 16:16:51 info: Connecting to BrowserStack browser...
+2025-02-25 16:26:59 info: Connecting to BrowserStack browser...
+2025-02-25 16:27:40 info: Connecting to BrowserStack browser...
+2025-02-25 16:33:09 info: Connecting to BrowserStack browser...
+2025-02-25 16:33:18 info: Connecting to BrowserStack browser...
+2025-02-25 16:33:26 info: Connecting to BrowserStack browser...
+2025-02-25 16:36:14 info: Connecting to BrowserStack browser...
+2025-02-25 16:36:38 info: Connecting to BrowserStack browser...
+2025-02-25 16:36:46 info: Connecting to BrowserStack browser...
+2025-02-25 16:36:54 info: Connecting to BrowserStack browser...
+2025-02-25 23:09:54 info: Connecting to BrowserStack browser...
+2025-02-25 23:10:07 info: Connecting to BrowserStack browser...
+2025-02-25 23:10:17 info: Connecting to BrowserStack browser...
+2025-02-25 23:27:18 info: Connecting to BrowserStack browser...
+2025-02-25 23:27:30 info: Connecting to BrowserStack browser...
+2025-02-25 23:27:41 info: Connecting to BrowserStack browser...
+2025-02-25 23:31:10 info: Connecting to BrowserStack browser...
+2025-02-25 23:31:24 info: Connecting to BrowserStack browser...
+2025-02-25 23:31:34 info: Connecting to BrowserStack browser...
+2025-02-25 23:31:54 info: Connecting to BrowserStack browser...
+2025-02-25 23:32:20 info: Connecting to BrowserStack browser...
+2025-02-25 23:32:30 info: Connecting to BrowserStack browser...
+2025-02-26 00:36:03 info: Connecting to BrowserStack browser...
+2025-02-26 00:36:17 info: Connecting to BrowserStack browser...
+2025-02-26 00:36:40 info: Connecting to BrowserStack browser...
+2025-02-26 00:46:42 info: Connecting to BrowserStack browser...
+2025-02-26 00:46:54 info: Connecting to BrowserStack browser...
+2025-02-26 00:47:06 info: Connecting to BrowserStack browser...
+2025-02-26 01:04:18 info: Connecting to BrowserStack browser...
+2025-02-26 01:04:36 info: Connecting to BrowserStack browser...
+2025-02-26 01:04:47 info: Connecting to BrowserStack browser...
+2025-02-26 20:45:06 info: Connecting to BrowserStack browser...
+2025-02-26 20:45:23 info: Connecting to BrowserStack browser...
+2025-02-26 20:45:33 info: Connecting to BrowserStack browser...
+2025-02-26 21:08:49 info: Connecting to BrowserStack browser...
+2025-02-26 21:09:20 info: Connecting to BrowserStack browser...
+2025-02-26 21:09:34 info: Connecting to BrowserStack browser...
+2025-02-26 21:14:46 info: Connecting to BrowserStack browser...
+2025-02-26 21:16:58 info: Connecting to BrowserStack browser...
+2025-02-26 21:17:39 info: Connecting to BrowserStack browser...
+2025-02-26 21:17:47 info: Connecting to BrowserStack browser...

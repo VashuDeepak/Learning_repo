@@ -1,0 +1,28 @@
+// {
+//     "compilerOptions": {
+//         "target": "es6",
+//         "module": "commonjs",
+//         "strict": true,
+//         "esModuleInterop": true,
+//         "skipLibCheck": true,
+//         "forceConsistentCasingInFileNames": true,
+//         "outDir": "./dist",
+//         "rootDir": "./"
+//     },
+//     "include": ["src/**/*", "tests/**/*"],
+//     "exclude": ["node_modules", "dist"]
+// }
+
+
+{
+    "compilerOptions": {
+        "rootDir": "./", // Set rootDir to the project root
+        "outDir": "./dist",
+        "strict": true,
+        "esModuleInterop": true,
+        "skipLibCheck": true,
+        "forceConsistentCasingInFileNames": true
+    },
+    "include": ["**/*"], // Include all files in the project
+    "exclude": ["node_modules", "dist"]
+}
